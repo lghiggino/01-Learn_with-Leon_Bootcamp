@@ -1,0 +1,30 @@
+homework - refazer khanacademy
+
+
+	header
+	nav
+	ul
+		li
+			img
+			a href
+			select
+
+
+section
+	h1
+	p
+	a, a, a OU button, button, button
+
+section
+	h2
+	section (*3)
+		img
+		h3
+		p
+
+section
+	h4
+	h2
+	p
+	button
+	img
