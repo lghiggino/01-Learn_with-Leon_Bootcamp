@@ -42,7 +42,9 @@ a:link{
 }
 
 p{
+    display: block;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 1em;
 }
 
 img{
